@@ -1,0 +1,17 @@
+- Le repertoire1 (arbo2) contient :
+b3365d2d5819ecd263b5358fad7892c5  arbo2/rep11/fichier2
+eda9533d0f09265bd8240aebe0edb103  arbo2/rep11/fichier4
+b0c2447d3a07e06f824159ac1171cc39  arbo2/rep11/fichier5
+f19f3388063160603d7f9c378e725a30  arbo2/rep21/fichier1
+2818e458e4b626e5d2b819c16f3a21c3  arbo2/rep21/fichier3
+eda9533d0f09265bd8240aebe0edb103  arbo2/rep21/sousRep1/fichier4
+f19f3388063160603d7f9c378e725a30  arbo2/rep21/sousRep2/fichier1
+2818e458e4b626e5d2b819c16f3a21c3  arbo2/rep21/sousRep2/fichier3
+5302434c8c9fca2a9eaac75b7f288956  arbo2/tata
+b3365d2d5819ecd263b5358fad7892c5  arbo2/titi
+81c04f5793883c0ef2ebf27aa81e3c4f  arbo2/toto
+fc68b6e427818083ba92167a98bd854e  arbo2/tutu
+- Le fichier contenant la liste des fichiers dans arbo2 a pour md5 : 2ccc808853f3833ddb8b0dee1e56119f
+- Le fichier contenant la liste des dossiers dans arbo2 a pour md5 : 45ec90a58f6956d9d9d428565ebdf505
+- Le fichier contenant la liste des fichiers dans arbo1 a pour md5 : 638e84eefc303656098bc59c30201f1e
+- Le fichier contenant la liste des dossiers dans arbo1 a pour md5 : c2bc2b4203875699038829d996b8d326

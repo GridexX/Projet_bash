@@ -1,0 +1,6 @@
+- Le repertoire1 (lol2) contient :
+f19f3388063160603d7f9c378e725a30  lol2/rep2/fichier2
+- Le fichier contenant la liste des fichiers dans lol2 a pour md5 : 31d6a2bf23e082172ad91d38221ca9bb
+- Le fichier contenant la liste des dossiers dans lol2 a pour md5 : a6cf9d5db9a99768445d163ae208e912
+- Le fichier contenant la liste des fichiers dans lol1 a pour md5 : f65a911146268bda556ca39c04124017
+- Le fichier contenant la liste des dossiers dans lol1 a pour md5 : b7088c3c61e338bb8690d833c7337c02

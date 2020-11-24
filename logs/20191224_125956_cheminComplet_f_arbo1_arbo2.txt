@@ -1,0 +1,10 @@
+Le dossier ayant comme empreinte md5 3babbec78932fb495931f47cc7071ef7 apparait 2 fois dans :
+arbo1/rep2/rep1
+arbo2/rep21/sousRep1
+Le dossier ayant comme empreinte md5 56b4ccf851a0749f3fef697e251fb727 apparait 3 fois dans :
+arbo1/rep1
+arbo1/rep11
+arbo2/rep11
+- Dossier unique : arbo2/rep21
+- Dossier unique : arbo1/rep2
+- Dossier unique : arbo2/rep21/sousRep2

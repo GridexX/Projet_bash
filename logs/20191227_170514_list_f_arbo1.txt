@@ -1,0 +1,18 @@
+- Le repertoire1 (arbo1) contient :
+b3365d2d5819ecd263b5358fad7892c5  arbo1/fichier2
+b3365d2d5819ecd263b5358fad7892c5  arbo1/rep2/fichier2
+fc68b6e427818083ba92167a98bd854e  arbo1/rep2/fichier3
+f19f3388063160603d7f9c378e725a30  arbo1/rep2/fichier1
+eda9533d0f09265bd8240aebe0edb103  arbo1/rep2/rep1/fichier4
+b0c2447d3a07e06f824159ac1171cc39  arbo1/fichier5
+fc68b6e427818083ba92167a98bd854e  arbo1/fichier3
+eda9533d0f09265bd8240aebe0edb103  arbo1/fichier4
+f19f3388063160603d7f9c378e725a30  arbo1/fichier1
+b3365d2d5819ecd263b5358fad7892c5  arbo1/rep1/fichier2
+b0c2447d3a07e06f824159ac1171cc39  arbo1/rep1/fichier5
+eda9533d0f09265bd8240aebe0edb103  arbo1/rep1/fichier4
+b3365d2d5819ecd263b5358fad7892c5  arbo1/rep11/fichier2
+b0c2447d3a07e06f824159ac1171cc39  arbo1/rep11/fichier5
+eda9533d0f09265bd8240aebe0edb103  arbo1/rep11/fichier4
+- Le fichier contenant la liste des fichiers dans arbo1 a pour md5 : adb2f399dc0b34b27aaf9a9fff179140
+- Le fichier contenant la liste des dossiers dans arbo1 a pour md5 : 98ba363da0aee507530364358417dadb
